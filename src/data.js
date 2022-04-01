@@ -7,8 +7,8 @@ export const data = [
 
     },
     {
-        name : 'Yasou',
-        skinName : 'Yasou chân long kiếm',
+        name : 'Yasuo',
+        skinName : 'Yasuoo chân long kiếm',
         des : 'aaaaaaaaaaaaaabbbbbbbb',
         imageUrl : require('./image/yasou.jpg')
 
@@ -28,6 +28,26 @@ export const data = [
 
     },
     {
+        name : 'Kaisa',
+        skinName : 'Kaisa thủy long kiếm',
+        des : 'aaaaaaaaaaaaaabbbbbbbb',
+        imageUrl : require('./image/kaisa.jpg')
+
+    },
+    {
+        name : 'Kaisa',
+        skinName : 'Kaisa thủy long kiếm',
+        des : 'aaaaaaaaaaaaaabbbbbbbb',
+        imageUrl : require('./image/kaisa.jpg')
+
+    },
+    {
+        name : 'Kaisa',
+        skinName : 'Kaisa thủy long kiếm',
+        des : 'aaaaaaaaaaaaaabbbbbbbb',
+        imageUrl : require('./image/kaisa.jpg')
+
+    },{
         name : 'Kaisa',
         skinName : 'Kaisa thủy long kiếm',
         des : 'aaaaaaaaaaaaaabbbbbbbb',
