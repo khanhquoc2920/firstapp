@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.demo{
+    padding:30px;
+}
+.demo-item{
+    padding:10px;
+}
